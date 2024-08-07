@@ -47,7 +47,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBcducPgoLHTFAjgko8CYZyXgZQroafRu4',
+    apiKey: '',
     appId: '1:287967245163:web:70b8b87a9b4af0f263522e',
     messagingSenderId: '287967245163',
     projectId: 'diabilitylogin',
@@ -57,7 +57,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCIr8W1JYai_Ou5uc0EgpiHOkw1-4KAI4o',
+    apiKey: '',
     appId: '1:287967245163:android:edced155ecd0f1c263522e',
     messagingSenderId: '287967245163',
     projectId: 'diabilitylogin',
@@ -65,7 +65,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCJgBtUzaiYpEiJzNUG2hIlRXcMzexpLhk',
+    apiKey: '',
     appId: '1:287967245163:ios:aa8b244750f17f2d63522e',
     messagingSenderId: '287967245163',
     projectId: 'diabilitylogin',
