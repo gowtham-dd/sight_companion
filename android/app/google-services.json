@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "287967245163",
+    "project_id": "diabilitylogin",
+    "storage_bucket": "diabilitylogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287967245163:android:edced155ecd0f1c263522e",
+        "android_client_info": {
+          "package_name": "com.example.sight_companion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIr8W1JYai_Ou5uc0EgpiHOkw1-4KAI4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
